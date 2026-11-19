@@ -2,7 +2,7 @@
 
 End-to-end HR analytics project using **SQL Server**, **Python** and **Power BI** to find out why employees leave, and to flag current employees who are at risk.
 
-![Dashboard]([Screenshots/Dashboard.png](https://github.com/aaryan2605/HR-Analytics-Employee-Attrition/blob/main/Screenshots/Dashboard.png?raw=true))
+![Dashboard](https://github.com/aaryan2605/HR-Analytics-Employee-Attrition/blob/main/Screenshots/Dashboard.png?raw=true)
 
 ## Business questions
 - How many employees have left, and what is the attrition rate?
